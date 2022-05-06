@@ -1,6 +1,6 @@
 # Mario
 
-[https://lab.cs50.io/MurryMcIntosh/cs50labs/2019/fall/mario/more/]
+https://lab.cs50.io/MurryMcIntosh/cs50labs/2019/fall/mario/more/
 
 ## World 1-1
 
